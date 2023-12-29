@@ -1,1 +1,1 @@
-# sightcare.github.io
+# sightcare
